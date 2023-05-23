@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ianreger
-- 👀 I’m interested in homelabs, networking, and small programming
-- 🌱 I’m currently learning Java, and Python.
-- 💞️ I’m looking to collaborate on any type of projects.
+- 👀 I’m interested in homelabs, networking, and small programming tasks.
+- 🌱 I’m currently wrtining in Python and Java.
+- 💞️ I’m looking to collaborate on any self-hosted projects.
 - 📫 How to reach me ianreger7@gmail.com
 
-updated April 2021
+updated May 2023
 
 <!---
 ianreger/ianreger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ianreger
-- 👀 I’m interested in homelabs, networking, and small programming tasks.
-- 🌱 I’m currently wrtining in Python and Java.
-- 💞️ I’m looking to collaborate on any self-hosted projects.
-- 📫 How to reach me ianreger7@gmail.com
-
-updated May 2023
+I am Ian Reger, others call me Worm, Regular, E, E-In, or whatever they really desire. I am from the Springfield, PA. A small suburban town outside of Philadelphia. I graduated from Millersville University with a degree in Computer Science in 2021. I work professionally in the IT field, specializing in system administration, networking, and scripting. I am proficient in Python, Java, Docker, and Virutalization.
+My outdoor hobbies consist of skateboarding, rock climbing, and hiking. After work I usually destress by stressing myself out over video games and my homelab.
 
 <!---
 ianreger/ianreger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

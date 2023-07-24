@@ -2,6 +2,7 @@ I am Ian Reger, others call me Worm, Regular, E, E-In, or whatever they really d
 My outdoor hobbies consist of skateboarding, rock climbing, and hiking. After work I usually destress by stressing myself out over video games and my homelab.
 
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianreger&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianreger&layout=compact)
 
 
 

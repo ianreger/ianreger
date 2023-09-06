@@ -3,7 +3,7 @@ My outdoor hobbies consist of skateboarding, rock climbing, and hiking. After wo
 
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianreger&rank_icon=github&theme=transparent&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianreger&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianreger&layout=compact&theme=transparent)
 
 
 
